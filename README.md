@@ -1,8 +1,11 @@
 # Quiz: Object Inheritance
 
+???
+
 ## Object Inheritance
 
 ?: Object inheritance means that an object can adopt all of the attributes and behaviors (i.e. all of the methods) of the parent/super class. 
+
 (X) True ( ) False
 
 ?:
@@ -145,6 +148,7 @@ require_relative "../lib/human.rb"
 ```
 
 Lending a module's methods to using the `extend` keyword, is an example of what?
+
 ( ) Subclass inheritance ( ) Mixin usage (X) Class Methods ( ) Both B and C
 
 ?:
@@ -179,6 +183,7 @@ end
 ```
 
 The code sample above is an example of nested modules.
+
 (X) True ( ) False
 
 ?: To avoid altering a method of a parent class and creating behavior that a subclass doesn't need, we can utilize what keyword to add on additional functionality to a method in a specific subclass?
@@ -229,6 +234,7 @@ end
 () True (X) False
 
 ?: The `super` keyword overwrites the functionality of the method.
+
 (X) True (X) False
 
 ???
