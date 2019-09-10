@@ -231,7 +231,7 @@ end
 
 ?: In the last example, the `#alert` method inherits any functionality of the `#alert` method defined in the parent `ImportantNotification` class and adds a feature to send a text message.
 
-() True (X) False
+( ) True (X) False
 
 ?: The `super` keyword overwrites the functionality of the method.
 
