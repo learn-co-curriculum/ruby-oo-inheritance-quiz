@@ -190,9 +190,8 @@ The code sample above is an example of nested modules.
 
 ( ) `extend` (X) `super` ( ) `require` ( ) `include`
 
-?:
+?: To supercharge inheritance, which syntax should be used?
 
-To supercharge inheritance, which syntax should be used?
 ( )
 ```ruby
 class ImportantNotification::Notification
@@ -235,6 +234,6 @@ end
 
 ?: The `super` keyword overwrites the functionality of the method.
 
-(X) True (X) False
+( ) True (X) False
 
 ???
