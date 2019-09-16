@@ -143,17 +143,6 @@ The inheritance shown in the code above is an example of what?
 ?:
 
 ```ruby
-require_relative "../lib/parrot.rb"
-require_relative "../lib/human.rb"
-```
-
-Lending a module's methods to using the `extend` keyword, is an example of what?
-
-( ) Subclass inheritance ( ) Mixin usage (X) Class Methods ( ) Both B and C
-
-?:
-
-```ruby
 module Talk
   module Phrases
     def hello
